@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/WhqUIxQ.png)
+![image](https://i.imgur.com/53q2Aei.png)
 
 ## Hi there .o/ I'm Nathan!
 
