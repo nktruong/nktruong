@@ -5,7 +5,7 @@
 I am a Philly-based software engineer who is passionate about promoting healthy lifestyles and working on human-centered design. I also have been managing a Minecraft community called 🍄 Bityard for over 4 years! 
 
 * 🌈 My pronouns are he, him, and they
-* 🌊 I have a few side projects which are creating a beginner's Github and Netlify one-page guide, as well as collaborating on building wiki for the Bityard server
+* 🌊 I have a few side projects: creating a beginner's guide for Git and Netlify, as well as collaborating on building a wiki for the Bityard server
 * 🌱 I am currently learning Angular in order to build the wiki with!
 
 ## My Tech Stack
