@@ -2,11 +2,11 @@
 
 ## Hi there .o/ I'm Nathan!
 
-I am a Philly-based software engineer who is passionate about promoting healthy lifestyles and working on human-centered design. I also have been managing a Minecraft community called Bityard for over 4 years! 
+I am a Philly-based software engineer who is passionate about promoting healthy lifestyles and working on human-centered design. I also have been managing a Minecraft community called 🍄 Bityard for over 4 years! 
 
-* **Pronouns**: he, him, they
-* **Side Projects**: Creating a beginner's Github and Netlify guide, collaborating on building a Bityard server wiki website
-* **Learning**: Angular to build the wiki!
+* 🌈 My pronouns are he, him, and they
+* 🌊 I have a few side projects which are creating a beginner's Github and Netlify one-page guide, as well as collaborating on building wiki for the Bityard server
+* 🌱 I am currently learning Angular in order to build the wiki with!
 
 ## My Tech Stack
 
