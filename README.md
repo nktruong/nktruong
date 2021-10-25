@@ -6,7 +6,7 @@ I am a Philly-based software engineer who is passionate about promoting healthy 
 
 * 🌈 My pronouns are he, him, and they
 * 🌊 I have a few side projects: creating a beginner's guide for Git and Netlify, as well as collaborating on building a wiki for the Bityard server
-* 🌱 I am currently learning Angular in order to build the wiki with!
+* 🌱 I am currently learning TailwindCSS to help with app design!
 
 ## My Tech Stack
 
