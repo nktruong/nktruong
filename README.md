@@ -10,7 +10,7 @@ I am a Philly-based software engineer who is passionate about promoting healthy 
 
 ## My Tech Stack
 
-HTML / CSS / JavaScript / React / Node.js / JSON / MongoDB / Python
+HTML5 / CSS3 / TailwindCSS / JavaScript ES6+ / React / Node.js / Express / MongoDB / Python
 
 ## Let's Connect
 
