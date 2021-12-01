@@ -4,13 +4,13 @@
 
 I am a Philly-based software engineer who is passionate about promoting healthy lifestyles and working on human-centered design. I also have been managing a Minecraft community called 🍄 Bityard for over 4 years! 
 
-* 🌈 My pronouns are he, him, and they
+* 🌈 My pronouns are he/him/they
 * 🌊 I have a few side projects: creating a beginner's guide for Git and Netlify, as well as collaborating on building a wiki for the Bityard server
 * 🌱 I am currently learning TailwindCSS to help with app design!
 
 ## My Tech Stack
 
-HTML5 / CSS3 / TailwindCSS / JavaScript ES6+ / React / Node.js / Express / MongoDB / Python
+React / Node.js / Express / MongoDB / JavaScript ES6+ / TailwindCSS / CSS3 / HTML5 / Python
 
 ## Let's Connect
 
