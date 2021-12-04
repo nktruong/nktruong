@@ -2,10 +2,10 @@
 
 ## Hi there .o/ I'm Nathan!
 
-I am a Philly-based software engineer who is passionate about promoting healthy lifestyles and working on human-centered design. I also have been managing a Minecraft community called 🍄 Bityard for over 4 years! 
+I am a Philly-based software engineer who is passionate about promoting healthy lifestyles and working on human-centered design. I also have been managing a Minecraft community called 🍄 Shroomhealth for over 4 years! 
 
 * 🌈 My pronouns are he/him/they
-* 🌊 I have a few side projects: creating a beginner's guide for Git and Netlify, as well as collaborating on building a wiki for the Bityard server
+* 🌊 I have a few side projects: creating a beginner's guide for Git and Netlify, sharing my journey as a developer, as well as collaborating on building a Minecraft wiki for Shroomhearth
 * 🌱 I am currently learning TailwindCSS to help with app design!
 
 ## My Tech Stack
